@@ -2,7 +2,7 @@
 # coding: utf-8
 
 """
-Authors: Ritvik Kapila and Gauri Gupta
+Author: Ritvik Kapila
 """
 
 # You will need to install python xlsb library and update pandas, if not already done, on or after 29 January, using the following command for reading xlsb files
